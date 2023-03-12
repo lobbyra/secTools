@@ -1,0 +1,2 @@
+1. hex calculator
+2. universal base transformer. You enter 0x5 and displays it in bin, dec, ascii, octal

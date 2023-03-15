@@ -19,6 +19,10 @@ Must have small headers for credits.
 
 Only english
 
+# TO-DO
+
+- [] init a map of the tools
+
 # CREDITS
 
 If at least one of your pull request is merged, your name will be present bellow.
